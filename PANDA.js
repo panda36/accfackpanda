@@ -490,11 +490,544 @@ PANDA.on("message", async message => {
 // ======= [ Reload JSON - END   ] ======== //
 
 // عیسابی ئەکاونتەکان 100 تۆکین
+// ======= [ Console LOG    ] ======== //
+//////////////////////
+//////////////////////
+//////////////////////
+//////////////////////
+//////////////////////
 
+PANDA.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 1`);
+  console.log(`Hi ${PANDA.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA.guilds.size} " ]`);
+});
+PANDA2.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 2 `);
+  console.log(`Hi ${PANDA2.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA2.guilds.size} " ]`);
+});
+PANDA3.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 3`);
+  console.log(`Hi ${PANDA3.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA3.guilds.size} " ]`);
+});
+PANDA4.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 4`);
+  console.log(`Hi ${PANDA4.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA4.guilds.size} " ]`);
+});
+PANDA5.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 5`);
+  console.log(`Hi ${PANDA5.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA5.guilds.size} " ]`);
+});
+PANDA6.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 6`);
+  console.log(`Hi ${PANDA6.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA6.guilds.size} " ]`);
+});
+PANDA7.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 7`);
+  console.log(`Hi ${PANDA7.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA7.guilds.size} " ]`);
+});
+PANDA8.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 8`);
+  console.log(`Hi ${PANDA8.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA8.guilds.size} " ]`);
+});
+PANDA9.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 9`);
+  console.log(`Hi ${PANDA9.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA9.guilds.size} " ]`);
+});
+PANDA10.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 10`);
+  console.log(`Hi ${PANDA10.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA10.guilds.size} " ]`);
+});
+PANDA11.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 11`);
+  console.log(`Hi ${PANDA11.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA11.guilds.size} " ]`);
+});
+PANDA12.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 12`);
+  console.log(`Hi ${PANDA12.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA12.guilds.size} " ]`);
+});
+PANDA13.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 13`);
+  console.log(`Hi ${PANDA13.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA13.guilds.size} " ]`);
+});
+PANDA14.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 14`);
+  console.log(`Hi ${PANDA14.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA14.guilds.size} " ]`);
+});
+PANDA15.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی15`);
+  console.log(`Hi ${PANDA15.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA15.guilds.size} " ]`);
+});
+PANDA16.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی16`);
+  console.log(`Hi ${PANDA16.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA16.guilds.size} " ]`);
+});
+PANDA17.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی17`);
+  console.log(`Hi ${PANDA17.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA17.guilds.size} " ]`);
+});
+PANDA18.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی18`);
+  console.log(`Hi ${PANDA18.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA18.guilds.size} " ]`);
+});
+PANDA19.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی19`);
+  console.log(`Hi ${PANDA19.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA19.guilds.size} " ]`);
+});
+PANDA20.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی20`);
+  console.log(`Hi ${PANDA20.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA20.guilds.size} " ]`);
+});
+PANDA21.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی21`);
+  console.log(`Hi ${PANDA21.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA21.guilds.size} " ]`);
+});
+PANDA22.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی22`);
+  console.log(`Hi ${PANDA22.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA22.guilds.size} " ]`);
+});
+PANDA23.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی23`);
+  console.log(`Hi ${PANDA23.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA33.guilds.size} " ]`);
+});
+
+PANDA24.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی24`);
+  console.log(`Hi ${PANDA24.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA24.guilds.size} " ]`);
+});
+PANDA25.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی25`);
+  console.log(`Hi ${PANDA25.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA25.guilds.size} " ]`);
+});
+PANDA26.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی26`);
+  console.log(`Hi ${PANDA26.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA26.guilds.size} " ]`);
+});
+PANDA27.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 27`);
+  console.log(`Hi ${PANDA27.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA27.guilds.size} " ]`);
+});
+PANDA28.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 28`);
+  console.log(`Hi ${PANDA28.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA28.guilds.size} " ]`);
+});
+PANDA29.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 29`);
+  console.log(`Hi ${PANDA29.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA29.guilds.size} " ]`);
+});
+PANDA30.on("ready", () => {
+  console.log(`[PANDA] : الحساب رقم 30 يعمل`);
+  console.log(`Hi ${PANDA30.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA30.guilds.size} " ]`);
+});
+PANDA31.on("ready", () => {
+  console.log(`[PANDA] : 31 ئەکاونتی `);
+  console.log(`Hi ${PANDA31.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA31.guilds.size} " ]`);
+});
+PANDA32.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 32 `);
+  console.log(`Hi ${PANDA32.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA32.guilds.size} " ]`);
+});
+PANDA33.on("ready", () => {
+  console.log(`[PANDA] : 33ئەکاونتی `);
+  console.log(`Hi ${PANDA33.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA33.guilds.size} " ]`);
+});
+PANDA34.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی34 `);
+  console.log(`Hi ${PANDA34.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA34.guilds.size} " ]`);
+});
+PANDA35.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی35 `);
+  console.log(`Hi ${PANDA35.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA35.guilds.size} " ]`);
+});
+PANDA36.on("ready", () => {
+  console.log(`[PANDA] : 36ئەکاونتی `);
+  console.log(`Hi ${PANDA36.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA36.guilds.size} " ]`);
+});
+PANDA37.on("ready", () => {
+  console.log(`[PANDA] :37 ئەکاونتی `);
+  console.log(`Hi ${PANDA37.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA37.guilds.size} " ]`);
+});
+PANDA38.on("ready", () => {
+  console.log(`[PANDA] : 38ئەکاونتی `);
+  console.log(`Hi ${PANDA38.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA38.guilds.size} " ]`);
+});
+PANDA39.on("ready", () => {
+  console.log(`[PANDA] : 39ئەکاونتی `);
+  console.log(`Hi ${PANDA39.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA39.guilds.size} " ]`);
+});
+PANDA40.on("ready", () => {
+  console.log(`[PANDA] :40 ئەکاونتی `);
+  console.log(`Hi ${PANDA40.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA40.guilds.size} " ]`);
+});
+PANDA41.on("ready", () => {
+  console.log(`[PANDA] : 41ئەکاونتی `);
+  console.log(`Hi ${PANDA41.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA41.guilds.size} " ]`);
+});
+PANDA42.on("ready", () => {
+  console.log(`[PANDA] : 42ئەکاونتی `);
+  console.log(`Hi ${PANDA42.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA42.guilds.size} " ]`);
+});
+PANDA43.on("ready", () => {
+  console.log(`[PANDA] : 43ئەکاونتی `);
+  console.log(`Hi ${PANDA43.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA4.guilds.size} " ]`);
+});
+PANDA44.on("ready", () => {
+  console.log(`[PANDA] : 44ئەکاونتی `);
+  console.log(`Hi ${PANDA44.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA44.guilds.size} " ]`);
+});
+PANDA45.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی45 `);
+  console.log(`Hi ${PANDA4.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA45.guilds.size} " ]`);
+});
+PANDA46.on("ready", () => {
+  console.log(`[PANDA] : 46ئەکاونتی `);
+  console.log(`Hi ${PANDA46.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA46.guilds.size} " ]`);
+});
+PANDA47.on("ready", () => {
+  console.log(`[PANDA] :47 ئەکاونتی `);
+  console.log(`Hi ${PANDA47.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA4.guilds.size} " ]`);
+});
+PANDA48.on("ready", () => {
+  console.log(`[PANDA] :48 ئەکاونتی `);
+  console.log(`Hi ${PANDA48.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA48.guilds.size} " ]`);
+});
+PANDA49.on("ready", () => {
+  console.log(`[PANDA] : 49ئەکاونتی `);
+  console.log(`Hi ${PANDA49.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA49.guilds.size} " ]`);
+});
+PANDA50.on("ready", () => {
+  console.log(`[PANDA] :50 ئەکاونتی `);
+  console.log(`Hi ${PANDA50.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA50.guilds.size} " ]`);
+});
+PANDA51.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی  51`);
+  console.log(`Hi ${PANDA51.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA51.guilds.size} " ]`);
+});
+PANDA52.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 2 `);
+  console.log(`Hi ${PANDA52.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA52.guilds.size} " ]`);
+});
+PANDA53.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 3`);
+  console.log(`Hi ${PANDA53.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA53.guilds.size} " ]`);
+});
+PANDA54.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 4`);
+  console.log(`Hi ${PANDA54.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA54.guilds.size} " ]`);
+});
+PANDA55.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 5`);
+  console.log(`Hi ${PANDA55.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA55.guilds.size} " ]`);
+});
+PANDA56.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 6`);
+  console.log(`Hi ${PANDA56.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA56.guilds.size} " ]`);
+});
+PANDA57.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 7`);
+  console.log(`Hi ${PANDA57.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA57.guilds.size} " ]`);
+});
+PANDA58.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 8`);
+  console.log(`Hi ${PANDA58.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA58.guilds.size} " ]`);
+});
+PANDA59.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 9`);
+  console.log(`Hi ${PANDA59.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA59.guilds.size} " ]`);
+});
+PANDA60.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 10`);
+  console.log(`Hi ${PANDA60.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA60.guilds.size} " ]`);
+});
+///////
+PANDA61.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 1`);
+  console.log(`Hi ${PANDA61.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA61.guilds.size} " ]`);
+});
+PANDA62.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 2 `);
+  console.log(`Hi ${PANDA62.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA62.guilds.size} " ]`);
+});
+PANDA63.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 3`);
+  console.log(`Hi ${PANDA63.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA63.guilds.size} " ]`);
+});
+PANDA64.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 4`);
+  console.log(`Hi ${PANDA64.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA64.guilds.size} " ]`);
+});
+PANDA65.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 5`);
+  console.log(`Hi ${PANDA65.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA65.guilds.size} " ]`);
+});
+PANDA66.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 6`);
+  console.log(`Hi ${PANDA66.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA66.guilds.size} " ]`);
+});
+PANDA67.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 7`);
+  console.log(`Hi ${PANDA67.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA67.guilds.size} " ]`);
+});
+PANDA68.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 8`);
+  console.log(`Hi ${PANDA68.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA68.guilds.size} " ]`);
+});
+PANDA69.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 9`);
+  console.log(`Hi ${PANDA69.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA69.guilds.size} " ]`);
+});
+PANDA70.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 10`);
+  console.log(`Hi ${PANDA70.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA70.guilds.size} " ]`);
+});
+///////
+PANDA71.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 1`);
+  console.log(`Hi ${PANDA71.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA71.guilds.size} " ]`);
+});
+PANDA72.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 2 `);
+  console.log(`Hi ${PANDA72.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA72.guilds.size} " ]`);
+});
+PANDA73.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 3`);
+  console.log(`Hi ${PANDA73.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA73.guilds.size} " ]`);
+});
+PANDA74.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 4`);
+  console.log(`Hi ${PANDA74.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA74.guilds.size} " ]`);
+});
+PANDA75.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 5`);
+  console.log(`Hi ${PANDA75.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA75.guilds.size} " ]`);
+});
+PANDA76.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 6`);
+  console.log(`Hi ${PANDA76.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA76.guilds.size} " ]`);
+});
+PANDA77.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 7`);
+  console.log(`Hi ${PANDA77.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA77.guilds.size} " ]`);
+});
+PANDA78.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 8`);
+  console.log(`Hi ${PANDA78.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA78.guilds.size} " ]`);
+});
+PANDA79.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 9`);
+  console.log(`Hi ${PANDA79.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA79.guilds.size} " ]`);
+});
+PANDA80.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 10`);
+  console.log(`Hi ${PANDA80.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA80.guilds.size} " ]`);
+});
+////////
+PANDA81.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 1`);
+  console.log(`Hi ${PANDA81.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA81.guilds.size} " ]`);
+});
+PANDA82.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 2 `);
+  console.log(`Hi ${PANDA82.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA82.guilds.size} " ]`);
+});
+PANDA83.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 3`);
+  console.log(`Hi ${PANDA83.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA83.guilds.size} " ]`);
+});
+PANDA84.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 4`);
+  console.log(`Hi ${PANDA84.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA84.guilds.size} " ]`);
+});
+PANDA85.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 5`);
+  console.log(`Hi ${PANDA85.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA85.guilds.size} " ]`);
+});
+PANDA86.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 6`);
+  console.log(`Hi ${PANDA86.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA86.guilds.size} " ]`);
+});
+PANDA87.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 7`);
+  console.log(`Hi ${PANDA87.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA87.guilds.size} " ]`);
+});
+PANDA88.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 8`);
+  console.log(`Hi ${PANDA88.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA88.guilds.size} " ]`);
+});
+PANDA89.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 9`);
+  console.log(`Hi ${PANDA89.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA89.guilds.size} " ]`);
+});
+PANDA90.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 10`);
+  console.log(`Hi ${PANDA90.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA90.guilds.size} " ]`);
+});
+////////
+PANDA91.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 1`);
+  console.log(`Hi ${PANDA91.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA91.guilds.size} " ]`);
+});
+PANDA92.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 2 `);
+  console.log(`Hi ${PANDA92.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA92.guilds.size} " ]`);
+});
+PANDA93.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 3`);
+  console.log(`Hi ${PANDA93.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA93.guilds.size} " ]`);
+});
+PANDA94.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 4`);
+  console.log(`Hi ${PANDA94.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA94.guilds.size} " ]`);
+});
+PANDA95.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 5`);
+  console.log(`Hi ${PANDA95.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA95.guilds.size} " ]`);
+});
+PANDA96.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 6`);
+  console.log(`Hi ${PANDA96.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA96.guilds.size} " ]`);
+});
+PANDA97.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 7`);
+  console.log(`Hi ${PANDA97.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA97.guilds.size} " ]`);
+});
+PANDA98.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 8`);
+  console.log(`Hi ${PANDA98.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA98.guilds.size} " ]`);
+});
+PANDA99.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 9`);
+  console.log(`Hi ${PANDA9.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA99.guilds.size} " ]`);
+});
+PANDA100.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 10`);
+  console.log(`Hi ${PANDA100.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA100.guilds.size} " ]`);
+});
+//////////////////////
+//////////////////////
+//////////////////////
+//////////////////////
+//////////
+//////////
+//////////
+//////////
+//////////
+//////////////////////
+//////////////////////
+
+// ======= [ Console LOG - END   ] ======== //
+//////////
+//////////
+//////////
+//////////
+//////////
+//////////
+//////////
+//////////
+//////////
 
 PANDA.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -502,7 +1035,7 @@ PANDA.on("message", message => {
 });
 PANDA2.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -510,7 +1043,7 @@ PANDA2.on("message", message => {
 });
 PANDA3.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -518,7 +1051,7 @@ PANDA3.on("message", message => {
 });
 PANDA4.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -526,7 +1059,7 @@ PANDA4.on("message", message => {
 });
 PANDA5.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -534,7 +1067,7 @@ PANDA5.on("message", message => {
 });
 PANDA6.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -542,7 +1075,7 @@ PANDA6.on("message", message => {
 });
 PANDA7.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -550,7 +1083,7 @@ PANDA7.on("message", message => {
 });
 PANDA8.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -558,7 +1091,7 @@ PANDA8.on("message", message => {
 });
 PANDA9.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -566,7 +1099,7 @@ PANDA9.on("message", message => {
 });
 PANDA10.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -574,7 +1107,7 @@ PANDA10.on("message", message => {
 });
 PANDA11.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -582,7 +1115,7 @@ PANDA11.on("message", message => {
 });
 PANDA12.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -590,7 +1123,7 @@ PANDA12.on("message", message => {
 });
 PANDA13.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -598,7 +1131,7 @@ PANDA13.on("message", message => {
 });
 PANDA14.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -606,7 +1139,7 @@ PANDA14.on("message", message => {
 });
 PANDA15.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -614,7 +1147,7 @@ PANDA15.on("message", message => {
 });
 PANDA16.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -622,7 +1155,7 @@ PANDA16.on("message", message => {
 });
 PANDA17.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -630,7 +1163,7 @@ PANDA17.on("message", message => {
 });
 PANDA18.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -638,7 +1171,7 @@ PANDA18.on("message", message => {
 });
 PANDA19.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -646,7 +1179,7 @@ PANDA19.on("message", message => {
 });
 PANDA20.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -654,7 +1187,7 @@ PANDA20.on("message", message => {
 });
 PANDA21.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -662,7 +1195,7 @@ PANDA21.on("message", message => {
 });
 PANDA22.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -670,7 +1203,7 @@ PANDA22.on("message", message => {
 });
 PANDA23.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -678,7 +1211,7 @@ PANDA23.on("message", message => {
 });
 PANDA24.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -686,7 +1219,7 @@ PANDA24.on("message", message => {
 });
 PANDA25.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -694,7 +1227,7 @@ PANDA25.on("message", message => {
 });
 PANDA51.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -702,7 +1235,7 @@ PANDA51.on("message", message => {
 });
 PANDA26.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -710,7 +1243,7 @@ PANDA26.on("message", message => {
 });
 PANDA27.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -718,7 +1251,7 @@ PANDA27.on("message", message => {
 });
 PANDA28.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -726,7 +1259,7 @@ PANDA28.on("message", message => {
 });
 PANDA29.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -734,7 +1267,7 @@ PANDA29.on("message", message => {
 });
 PANDA30.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -742,7 +1275,7 @@ PANDA30.on("message", message => {
 });
 PANDA31.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -750,7 +1283,7 @@ PANDA31.on("message", message => {
 });
 PANDA32.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -758,7 +1291,7 @@ PANDA32.on("message", message => {
 });
 PANDA33.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -766,7 +1299,7 @@ PANDA33.on("message", message => {
 });
 PANDA34.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -774,7 +1307,7 @@ PANDA34.on("message", message => {
 });
 PANDA35.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -782,7 +1315,7 @@ PANDA35.on("message", message => {
 });
 PANDA35.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -790,7 +1323,7 @@ PANDA35.on("message", message => {
 });
 PANDA37.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -798,7 +1331,7 @@ PANDA37.on("message", message => {
 });
 PANDA38.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -806,7 +1339,7 @@ PANDA38.on("message", message => {
 });
 PANDA39.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -814,7 +1347,7 @@ PANDA39.on("message", message => {
 });
 PANDA40.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -822,7 +1355,7 @@ PANDA40.on("message", message => {
 });
 PANDA41.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -830,7 +1363,7 @@ PANDA41.on("message", message => {
 });
 PANDA42.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -838,7 +1371,7 @@ PANDA42.on("message", message => {
 });
 PANDA43.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -846,7 +1379,7 @@ PANDA43.on("message", message => {
 });
 PANDA44.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -854,7 +1387,7 @@ PANDA44.on("message", message => {
 });
 PANDA45.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -862,7 +1395,7 @@ PANDA45.on("message", message => {
 });
 PANDA46.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -870,7 +1403,7 @@ PANDA46.on("message", message => {
 });
 PANDA47.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -878,7 +1411,7 @@ PANDA47.on("message", message => {
 });
 PANDA48.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -886,7 +1419,7 @@ PANDA48.on("message", message => {
 });
 PANDA49.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -894,7 +1427,7 @@ PANDA49.on("message", message => {
 });
 PANDA50.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -902,7 +1435,7 @@ PANDA50.on("message", message => {
 });
 PANDA52.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -910,7 +1443,7 @@ PANDA52.on("message", message => {
 });
 PANDA53.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -918,7 +1451,7 @@ PANDA53.on("message", message => {
 });
 PANDA54.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -926,7 +1459,7 @@ PANDA54.on("message", message => {
 });
 PANDA55.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -934,7 +1467,7 @@ PANDA55.on("message", message => {
 });
 PANDA56.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -942,7 +1475,7 @@ PANDA56.on("message", message => {
 });
 PANDA57.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -950,7 +1483,7 @@ PANDA57.on("message", message => {
 });
 PANDA58.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -958,7 +1491,7 @@ PANDA58.on("message", message => {
 });
 PANDA59.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -966,7 +1499,7 @@ PANDA59.on("message", message => {
 });
 PANDA60.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -974,7 +1507,7 @@ PANDA60.on("message", message => {
 });
 PANDA61.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -982,7 +1515,7 @@ PANDA61.on("message", message => {
 });
 PANDA62.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -990,7 +1523,7 @@ PANDA62.on("message", message => {
 });
 PANDA63.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -998,7 +1531,7 @@ PANDA63.on("message", message => {
 });
 PANDA64.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1006,7 +1539,7 @@ PANDA64.on("message", message => {
 });
 PANDA65.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1014,7 +1547,7 @@ PANDA65.on("message", message => {
 });
 PANDA66.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1022,7 +1555,7 @@ PANDA66.on("message", message => {
 });
 PANDA67.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1030,7 +1563,7 @@ PANDA67.on("message", message => {
 });
 PANDA68.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1038,7 +1571,7 @@ PANDA68.on("message", message => {
 });
 PANDA69.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1046,7 +1579,7 @@ PANDA69.on("message", message => {
 });
 PANDA70.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1054,7 +1587,7 @@ PANDA70.on("message", message => {
 });
 PANDA71.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1062,7 +1595,7 @@ PANDA71.on("message", message => {
 });
 PANDA72.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1070,7 +1603,7 @@ PANDA72.on("message", message => {
 });
 PANDA73.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1078,7 +1611,7 @@ PANDA73.on("message", message => {
 });
 PANDA74.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1086,7 +1619,7 @@ PANDA74.on("message", message => {
 });
 PANDA75.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1094,7 +1627,7 @@ PANDA75.on("message", message => {
 });
 PANDA76.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1102,7 +1635,7 @@ PANDA76.on("message", message => {
 });
 PANDA77.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1110,7 +1643,7 @@ PANDA77.on("message", message => {
 });
 PANDA78.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1118,7 +1651,7 @@ PANDA78.on("message", message => {
 });
 PANDA79.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1126,7 +1659,7 @@ PANDA79.on("message", message => {
 });
 PANDA80.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1134,7 +1667,7 @@ PANDA80.on("message", message => {
 });
 PANDA81.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1142,7 +1675,7 @@ PANDA81.on("message", message => {
 });
 PANDA82.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1150,7 +1683,7 @@ PANDA82.on("message", message => {
 });
 PANDA83.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1158,7 +1691,7 @@ PANDA83.on("message", message => {
 });
 PANDA84.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1166,7 +1699,7 @@ PANDA84.on("message", message => {
 });
 PANDA85.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1174,7 +1707,7 @@ PANDA85.on("message", message => {
 });
 PANDA86.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1182,7 +1715,7 @@ PANDA86.on("message", message => {
 });
 PANDA87.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1190,7 +1723,7 @@ PANDA87.on("message", message => {
 });
 PANDA88.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1198,7 +1731,7 @@ PANDA88.on("message", message => {
 });
 PANDA89.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1206,7 +1739,7 @@ PANDA89.on("message", message => {
 });
 PANDA90.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1214,7 +1747,7 @@ PANDA90.on("message", message => {
 });
 PANDA91.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1222,7 +1755,7 @@ PANDA91.on("message", message => {
 });
 PANDA92.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1230,7 +1763,7 @@ PANDA92.on("message", message => {
 });
 PANDA93.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1238,7 +1771,7 @@ PANDA93.on("message", message => {
 });
 PANDA94.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1246,7 +1779,7 @@ PANDA94.on("message", message => {
 });
 PANDA95.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1254,7 +1787,7 @@ PANDA95.on("message", message => {
 });
 PANDA96.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1262,7 +1795,7 @@ PANDA96.on("message", message => {
 });
 PANDA97.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1270,7 +1803,7 @@ PANDA97.on("message", message => {
 });
 PANDA98.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1278,7 +1811,7 @@ PANDA98.on("message", message => {
 });
 PANDA99.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -1286,7 +1819,7 @@ PANDA99.on("message", message => {
 });
 PANDA100.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "phelp") {
+  if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
     if (!message.channel.guild) return;
     message.channel.send(help);
@@ -9253,11 +9786,1935 @@ PANDA300.on("message", message => {
   }
 });
 
+///////////
+///////////
+///////////
+///////////
+///////////
+///////////
+///////////
+///////////
+///////////
+///////////
+///////////
+///////////
+///////////
+// ======= [ StayVoice - MODE END  ] ======== //
 
+// ======= [ RANDOM - AVATAR  ] ======== //
+const PANDAAVA = "Ava";
+PANDA.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA2.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA2.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA3.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA3.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA4.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA4.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA5.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA5.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA6.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA6.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA7.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA7.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA8.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA8.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA9.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA9.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA10.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA10.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA11.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA11.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA12.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA12.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA13.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA13.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA14.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA14.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA15.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA15.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA16.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + ""; //
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return; //
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA16.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA17.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return; //
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA17.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA18.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA18.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA19.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA19.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA20.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA20.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA21.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA21.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA22.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA22.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA23.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA23.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA24.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA24.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA25.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA25.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA26.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA26.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA27.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA27.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA28.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA28.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA29.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA29.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA30.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA30.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+
+//////////////////
+PANDA31.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA31.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA32.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA32.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA33.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA33.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA34.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA34.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA35.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA35.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA36.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA36.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA37.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA37.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA38.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA38.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA39.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA39.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA40.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA40.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+//////
+PANDA41.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA41.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA42.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA42.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA43.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA43.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA44.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA44.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA45.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA45.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA46.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA46.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA47.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA47.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA48.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA48.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA49.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA49.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA50.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA50.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+/////
+PANDA51.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA51.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA52.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA52.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA53.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA53.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA54.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA54.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA55.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA5.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA56.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA56.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA57.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA57.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA58.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA58.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA59.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA59.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA60.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA60.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+/////
+PANDA61.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA61.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA62.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA62.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA63.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA63.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA64.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA64.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA65.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA65.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA66.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA66.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA67.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA67.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA68.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA68.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA69.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA69.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA70.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA70.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+/////
+PANDA71.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA71.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA72.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA72.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA73.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA73.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA74.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA74.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA75.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA75.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA76.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA76.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA77.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA77.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA78.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA78.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA79.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA79.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA80.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA80.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+
+////
+PANDA81.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA81.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA82.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA82.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA83.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA83.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA84.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA84.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA85.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA85.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA86.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA86.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA87.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA87.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA88.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA88.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA89.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA89.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA90.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA90.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA91.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA91.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA92.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA92.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA93.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA93.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA94.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA94.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA95.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA95.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA96.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA6.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA97.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA97.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA98.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA98.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA99.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA99.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA100.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA100.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
 
 /// by PANDA
 
-PANDA.login("NjE2Mjk5OTczNzcxOTE5Mzky.XWakgw.1AB8NQVSh9_LG1ChSjHsaGLoaY");
+PANDA.login("");
 PANDA2.login("");
 PANDA3.login("");
 PANDA4.login("");
